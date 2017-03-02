@@ -1,7 +1,7 @@
 {
   "name": "amazon-clone",
   "version": "1.0.0",
-  "description": "yup",
+  "description": "Amazon-like storefront with MySQL and Node.js on the backend",
   "main": "amazon.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
